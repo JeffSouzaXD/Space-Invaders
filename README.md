@@ -1,4 +1,9 @@
 ## Space Invaders
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+</div></br>
 Welcome to Space Invaders, a thrilling game built with JavaScript. In this game, you step into the role of a spaceship pilot who has been summoned to defeat an alien fleet threatening planet Earth.
 
 ### Gameplay
@@ -18,6 +23,11 @@ It showcases complex game mechanics, such as different types of projectiles, ene
 Feel free to explore the code and try your hand at defeating the alien invaders. Have fun, and may the Earth be saved from the impending alien threat! 🚀🛸💥
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+</div></br>
 Bem-vindo ao Space Invaders, um emocionante jogo construído com JavaScript. Neste jogo, você assume o papel de um piloto de espaçonave que foi convocado para derrotar uma frota alienígena ameaçando o planeta Terra.
 
 ### Jogabilidade
